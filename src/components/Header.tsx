@@ -9,7 +9,9 @@ import {
 import Image from "next/image";
 import Link from "next/link";
 import { BsStars } from "react-icons/bs";
-import { FiChevronDown, FiUserPlus } from "react-icons/fi";
+// import { FiChevronDown, FiUserPlus } from "react-icons/fi";
+import { FiUserPlus } from "react-icons/fi";
+
 import { IoCheckmarkCircleSharp } from "react-icons/io5";
 import { MdOutlineDashboardCustomize } from "react-icons/md";
 import { PiAtom, PiGearSix, PiSelectionBackgroundLight } from "react-icons/pi";

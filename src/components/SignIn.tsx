@@ -1,7 +1,9 @@
 import { signIn } from "@/auth";
 import Image from "next/image";
 import React from "react";
-import { githubImage, googleImage } from "../app/assets";
+// import { githubImage, googleImage } from "../app/assets";
+import {  googleImage } from "../app/assets";
+
 
 const SignIn = () => {
   return (
