@@ -1,6 +1,6 @@
 import { GiGraduateCap } from "react-icons/gi";
 import { MdEditNote } from "react-icons/md";
-import { PiLightbulb } from "react-icons/pi";
+// import { PiLightbulb } from "react-icons/pi";
 import { VscVscodeInsiders } from "react-icons/vsc";
 
 const chatData = [
