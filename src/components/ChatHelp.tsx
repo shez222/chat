@@ -5,11 +5,6 @@ import { VscVscodeInsiders } from "react-icons/vsc";
 
 const chatData = [
   {
-    title: "Create image",
-    icon: <PiLightbulb />,
-    iconColor: "#e2c541",
-  },
-  {
     title: "Get advice",
     icon: <MdEditNote />,
     iconColor: "#c285c7",

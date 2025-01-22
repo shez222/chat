@@ -117,7 +117,7 @@ const Header = async () => {
             anchor="bottom end"
             className="p-2 origin-top-right mt-2 rounded-xl border border-primary-foreground/20 bg-[#2F2F2F] text-primary-foreground"
           >
-            <MenuItem>
+            {/* <MenuItem>
               <div className="group flex w-full items-center gap-3 rounded-lg p-3 cursor-pointer data-[focus]:bg-white/10">
                 <div className="w-7 h-7 bg-[#B4B4B440] rounded-full flex items-center justify-center">
                   <FiUserPlus className="text-base" />
@@ -142,9 +142,9 @@ const Header = async () => {
                 </div>
                 <p className="text-sm font-medium tracking-wide">Settings</p>
               </div>
-            </MenuItem>
+            </MenuItem> */}
 
-            <div className="my-1 h-px bg-primary-foreground/20" />
+            {/* <div className="my-1 h-px bg-primary-foreground/20" /> */}
             <MenuItem>
               <SignOut />
               {/* <form
